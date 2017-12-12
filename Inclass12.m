@@ -1,5 +1,11 @@
 % Sanjana Srinivasan
 % ss159
+%GB commments
+1 100
+2 100
+3 100
+4 100
+overall 100
 
 image1=('011917-wntDose-esi017-RI_f0016.tif');
 reader=bfGetReader(image1);
